@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
+**/.virtual_documents/
+.virtual_documents/
+**/__pycache__/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
